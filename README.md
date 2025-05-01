@@ -29,7 +29,7 @@ This portfolio showcases my skills, experience, and projects — from real-world
 
 ## 📸 Preview
 
-Live site: [https://your-portfolio-url.vercel.app](https://senguptaprodip27.netlify.app)
+Live site: [Portfolio](https://senguptaprodip27.netlify.app)
 
 ![Screenshot](./public/portfolio.PNG)
 
